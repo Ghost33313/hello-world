@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+omar mohamed
+IT student
+love and allergic to cats
