@@ -1,3 +1,4 @@
-name Omar Mohamed
-IT major
-intersted in tech and 3d models 
+omar mohamed
+IT student
+love and allergic to cats
+cheese is good
