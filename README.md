@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+name Omar Mohamed
+IT major
+intersted in tech and 3d models 
